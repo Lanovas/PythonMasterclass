@@ -77,7 +77,6 @@ new_datadf3
 
 # Operations with series and data frames
 
-k
 
 
 
